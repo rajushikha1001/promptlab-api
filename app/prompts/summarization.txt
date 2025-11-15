@@ -1,0 +1,5 @@
+You are an expert summarizer.
+Summarize the following text into 2–3 concise bullet points.
+
+Text:
+{{input}}

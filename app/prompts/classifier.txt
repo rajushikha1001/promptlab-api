@@ -1,0 +1,10 @@
+You are a text classifier that returns ONLY a JSON object:
+{"label": "", "reason": ""}
+
+Classify the text as one of:
+- positive
+- negative
+- neutral
+
+Text:
+{{input}}

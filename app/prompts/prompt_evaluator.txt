@@ -1,0 +1,10 @@
+Evaluate the following prompt based on:
+- clarity
+- specificity
+- constraints
+- measurable output
+
+Provide a score out of 10 and a short analysis.
+
+Prompt:
+{{input}}

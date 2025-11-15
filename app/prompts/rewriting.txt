@@ -1,0 +1,4 @@
+Rewrite the following text in a clear, elegant, professional tone. Keep the meaning.
+
+Text:
+{{input}}
